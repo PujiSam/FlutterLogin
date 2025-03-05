@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "234634132223",
+    "project_id": "flutter-firebase-auth-8ec4a",
+    "storage_bucket": "flutter-firebase-auth-8ec4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234634132223:android:5f6509d2db91e6cfef6aca",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234634132223-gs5v5q4s8evj9gep9ufbrr11sqt1a3fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapp",
+            "certificate_hash": "5530b5a0ce2e5535db3e0d208ff883f8b436c355"
+          }
+        },
+        {
+          "client_id": "234634132223-q94k8t69ejvqv9kd8rk0347i3m65npne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeaS3yzZeytOolL9WTOqZllJ0tqgqQvLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234634132223-q94k8t69ejvqv9kd8rk0347i3m65npne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234634132223-3bc5h823sto23dbmu1ac433adn08clib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afgprogrammer.day12Login"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234634132223:android:4c8f6640fe7b9936ef6aca",
+        "android_client_info": {
+          "package_name": "com.example.login_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234634132223-q94k8t69ejvqv9kd8rk0347i3m65npne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeaS3yzZeytOolL9WTOqZllJ0tqgqQvLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234634132223-q94k8t69ejvqv9kd8rk0347i3m65npne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234634132223-3bc5h823sto23dbmu1ac433adn08clib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afgprogrammer.day12Login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
